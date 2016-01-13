@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[neweramuseum_]]></title>
+        <description><![CDATA[neweramuseum_]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 11:28:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Impossible Humans - The Unexpected Happening - Teaser 2]]></title>
+            <description><![CDATA[<article><h1>Impossible Humans - The Unexpected Happening - Teaser 2</h1><p>IMPOSSIBLE HUMANS - THE UNEXPECTED HAPPENING Submission page (DECEMBER 22 2015 to JANUARY 21 2016 (23:59 GMT+1) http://neweramuseum.org/ihuh-entries/ "LABELS ARE FOR JARS. NOT FOR PEOPLE " (Andy Warhol) A visionary performance of contemporary art, music and new visual arts, where the Pollock Project's jazz meets the imaginative world of the artists from the New Era Museum (NEM).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/377cf942f3074d1925ca3441e3388b2860b7a8d8.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=nnBbvHW4Bfs&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">f5070f1b-78ec-4af9-b8f4-d323c3f31042</guid>
+            <pubDate>Wed, 13 Jan 2016 11:28:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
