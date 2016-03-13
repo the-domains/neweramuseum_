@@ -1,28 +1,40 @@
-name: neweramuseum_
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.6106779554393142
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: neweramuseum_
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.737029260257259
-  rhythmicContrast: 0.75
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.737029260257259
+  brandStrength: 0.6182796
+  lightness: 0.75
+  brandColors:
+    - '#31392F'
+    - '#FEFEFE'
+    - '#C6BECE'
+    - '#878866'
+    - '#BC4055'
+  rhythmicContrast: 0.75
+typography_spectrum: 0.6106779554393142
+layout_spectrum: 0.4856631
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
